@@ -1,0 +1,6 @@
+tqdm
+torch >=2.0.0, !=2.0.1, !=2.1.0 # https://stackoverflow.com/questions/76327419/valueerror-libcublas-so-0-9-not-found-in-the-system-path
+matplotlib
+torchvision
+IPython
+jupyter
